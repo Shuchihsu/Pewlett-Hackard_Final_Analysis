@@ -16,4 +16,7 @@
 
 ### Summary
 	
-	We have around 72,458 employees who might retire in the next five to ten years and we have around 1940 employees, if they are willing to, could help after they retire. Ideally, if we have all the retirees to help, we still see the ratio 1:30 in this project (one mentor with 30 new employees). The idea is the retirees are taking part-time positions. My recommendation is also to create the new employees training program with part-time positions for now or internship programs in place in order to fill in the near future demands. 
+	We have around 72,458 employees who might retire in the next five to ten years and we have around 1940 employees, if they are willing to, could help after they 
+	retire. Ideally, if we have all the retirees to help, we still see the ratio 1:30 in this project (one mentor with 30 new employees). The idea is the retirees 
+	are taking part-time positions. My recommendation is also to create the new employees training program with part-time positions for now or internship programs in 
+	place in order to fill in the near future demands. 
